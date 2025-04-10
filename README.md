@@ -1,5 +1,3 @@
-<img src="docs/imgs/acme.png" width="50%">
-
 # A framework for reinforcement learning agents
 This is a library of reinforcement learning (RL) building blocks that strives to
 expose simple, efficient, and readable agents. These agents first and foremost
